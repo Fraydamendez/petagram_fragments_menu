@@ -28,11 +28,21 @@
 
             </ImageView>
 
+            <TextView
+                android:layout_width="247dp"
+                android:layout_height="match_parent"
+                android:text="@string/app_name"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:gravity="center">
+
+            </TextView>
+
             <ImageView
                 android:id="@+id/imgStar"
                 android:layout_width="40dp"
                 android:layout_height="match_parent"
-                android:layout_marginLeft="220dp"
+                android:layout_marginLeft="5dp"
                 android:onClick="IrSegundaA"
                 android:src="@drawable/icons8_hotel_24" />
 

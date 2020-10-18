@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mascotas.iml" filepath="$PROJECT_DIR$/.idea/modules/Mascotas.iml" group="Mascotas" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/activation/activation.iml" filepath="$PROJECT_DIR$/.idea/modules/activation/activation.iml" group="Mascotas/activation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Mascotas/app" />
+    </modules>
+  </component>
+</project>
